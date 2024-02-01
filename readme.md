@@ -80,7 +80,7 @@ Note that by default we don't accept probabilistic input.
 If your program is proabalistic and you want to obtain the resulting probabilities, do
 
 ``` bash
-$ scli examples/digit_sum_prob.scl -p minmaxprob
+$ scli examples/legacy/good_scl/digit_sum_prob.scl -p minmaxprob
 ```
 
 Note that the `-p` argument allows you to specify a provenance semiring.
