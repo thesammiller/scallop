@@ -73,7 +73,7 @@ $ make install-scli
 Then since `scli` is in your system path, you can simply run
 
 ``` bash
-$ scli examples/animal.scl
+$ scli examples/legacy/good_scl/animal.scl
 ```
 
 Note that by default we don't accept probabilistic input.
